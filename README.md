@@ -1,4 +1,4 @@
-[![Deutscehaus](https://img.shields.io/website?logo=google-chrome&logoColor=white&down_color=red&down_message=offline&label=deutscehaus.xyz&style=for-the-badge&up_message=online&url=https%3A%2F%2Fdeutschehaus.xyz)][Beutschehaus]
+[![Deutscehaus](https://img.shields.io/website?logo=google-chrome&logoColor=white&down_color=red&down_message=offline&label=deutscehaus.xyz&style=for-the-badge&up_message=online&url=https%3A%2F%2Fdeutschehaus.xyz)][Deutschehaus]
 [![Links](https://img.shields.io/website?logoColor=white&down_color=red&down_message=offline&label=snowzy.de&style=for-the-badge&up_message=online&url=https%3A%2F%2Fsnowzy.de)][Links]
 
 # Hi, I'm Snowzy 👋
